@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simple Module to Print PDF Using PDFBox",
   "main": "index.js",
-  "author": "",
+  "author": "aldinh777",
   "license": "ISC",
   "repository": {
     "type": "git",
