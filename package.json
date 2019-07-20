@@ -1,0 +1,15 @@
+{
+  "name": "pdfbox-node-printer",
+  "version": "1.0.0",
+  "description": "Simple Module to Print PDF Using PDFBox",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aldinh777/pdfbox-node-printer.git"
+  },
+  "dependencies": {
+    "node-jre": "^0.2.3"
+  }
+}
